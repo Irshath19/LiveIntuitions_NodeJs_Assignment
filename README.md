@@ -1,5 +1,6 @@
 # LiveIntuitions_NodeJs_Assignment
 Movie Explorer Application backend using NodeJs
+Get All Movies
 <img width="1920" height="1080" alt="Screenshot (4076)" src="https://github.com/user-attachments/assets/ed9a2561-16e5-42ac-a6e0-8701880dae2a" />
  1. Get all movies (page 1)
 <img width="1920" height="1080" alt="Screenshot (4077)" src="https://github.com/user-attachments/assets/25851e55-9b83-4add-8c15-29b932932a73" />
