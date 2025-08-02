@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Sequelize auto-generated folders (if using migrations)
+migrations/
+seeders/
+
+# VSCode settings
+.vscode/
+
+# Debugging
+*.swp
+
+# Optional build outputs
+dist/
